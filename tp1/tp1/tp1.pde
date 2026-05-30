@@ -1,7 +1,7 @@
 PImage foto;
 
 void setup() {
-  size(800,400);
+  size(800,402);
   foto = loadImage("torre.jpg");
  fill (123);
  textSize (24);
